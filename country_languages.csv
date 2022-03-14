@@ -1,291 +1,291 @@
-Country;Official language
-Afghanistan;Pashto
-Afghanistan;Dari
-Albania;Albanian
-Algeria;Arabic
-Algeria;Tamazight
-Andorra;Catalan
-Angola;Portuguese
-Antigua and Barbuda;English
-Argentina;Spanish
-Armenia;Armenian
-Australia;English
-Austria;German
-Azerbaijan;Azerbaijani
-Bahamas;English
-Bahrain;Arabic
-Bangladesh;Bengali
-Barbados;English
-Belarus;Belarusian
-Belarus;Russian
-Belgium;Dutch
-Belgium;French
-Belgium;German
-Belize;English
-Benin;French
-Bhutan;Dzongkha
-Bolivia;Spanish
-Bosnia and Herzegovina;Bosnian
-Bosnia and Herzegovina;Croatian
-Bosnia and Herzegovina;Serbian
-Botswana;English
-Brazil;Portuguese
-Brunei;Malay
-Brunei;English
-Bulgaria;Bulgarian
-Burkina Faso;French
-Burundi;French
-Burundi;Kirundi
-Burundi;English
-Cambodia;Khmer
-Cameroon;English
-Cameroon;French
-Canada;English
-Canada;French
-Cape Verde;Portuguese
-Central African Republic;French
-Chad;Arabic
-Chad;French
-Chile;Spanish
-China;Mandarin Chinese
-Colombia;Spanish
-Comoros;Arabic
-Comoros;Comorian
-Comoros;French
-DR Congo;French
-Congo;French
-Costa Rica;Spanish
-Croatia;Croatian
-Cuba;Spanish
-Cyprus;Greek
-Cyprus;Turkish
-Czech Republic;Czech
-Czech Republic;Slovak
-Denmark;Danish
-Djibouti;Arabic
-Djibouti;French
-Dominica;English
-Dominican Republic;Spanish
-East Timor;Portuguese
-East Timor;Tetum
-Ecuador;Spanish
-Ecuador;Quechua
-Egypt;Arabic
-El Salvador;Spanish
-Equatorial Guinea;French
-Equatorial Guinea;Portuguese
-Equatorial Guinea;Spanish
-Eritrea;Tigrinya
-Estonia;Estonian
-Eswatini;English
-Eswatini;Swazi
-Ethiopia;Afar
-Ethiopia;Amharic
-Ethiopia;Oromo
-Ethiopia;Somali
-Ethiopia;Tigrinya
-Fiji;English
-Fiji;Fijian
-Fiji;Hindi
-Finland;Finnish
-Finland;Swedish
-France;French
-Gabon;French
-Gambia;English
-Georgia;Georgian
-Germany;German
-Ghana;English
-Greece;Greek
-Grenada;English
-Guatemala;Spanish
-Guinea;French
-Guinea-Bissau;Portuguese
-Guyana;English
-Haiti;French
-Haiti;Haitian Creole
-Honduras;Spanish
-Hungary;Hungarian
-Iceland;Icelandic
-India;Hindi
-India;English
-Indonesia;Indonesian
-Iran;Persian
-Iraq;Arabic
-Iraq;Kurdish
-Ireland;Irish
-Ireland;English
-Israel;Hebrew
-Italy;Italian
-Ivory Coast;French
-Jamaica;English
-Japan;Japanese
-Jordan;Arabic
-Kazakhstan;Kazakh
-Kazakhstan;Russian
-Kenya;English
-Kiribati;English
-North Korea;Korean
-South Korea;Korean
-Kuwait;Arabic
-Kyrgyzstan;Kyrgyz
-Kyrgyzstan;Russian
-Laos;Lao
-Latvia;Latvian
-Lebanon;Arabic
-Lesotho;Sotho
-Lesotho;English
-Liberia;English
-Libya;Arabic
-Liechtenstein;German
-Lithuania;Lithuanian
-Luxembourg;French
-Luxembourg;German
-Luxembourg;Luxembourgish
-Madagascar;French
-Madagascar;Malagasy
-Malawi;English
-Malawi;Chewa
-Malaysia;Malay
-Maldives;Dhivehi
-Mali;French
-Malta;Maltese
-Malta;English
-Marshall Islands;English
-Mauritania;Arabic
-Mauritius;English
-Mexico;Spanish
-Micronesia;English
-Moldova;Romanian
-Monaco;French
-Mongolia;Mongolian
-Montenegro;Montenegrin
-Morocco;Arabic
-Morocco;Tamazight
-Mozambique;Portuguese
-Myanmar;Burmese
-Namibia;English
-Nauru;English
-Nauru;Nauruan
-Nepal;Nepali
-Netherlands;Dutch
-Netherlands;Frisian
-New Zealand;English
-New Zealand;Maori
-Nicaragua;Spanish
-Niger;French
-Nigeria;English
-North Macedonia;Macedonian
-North Macedonia;Albanian
-Norway;Norwegian
-Norway;Sami
-Oman;Arabic
-Pakistan;Urdu
-Pakistan;English
-Palau;English
-Palau;Palauan
-Panama;Spanish
-Papua New Guinea;English
-Papua New Guinea;Hiri Motu
-Papua New Guinea;Tok Pisin
-Paraguay;Spanish
-Paraguay;Guarani
-Peru;Spanish
-Peru;Aymara
-Peru;Quechua
-Philippines;Filipino
-Philippines;English
-Poland;Polish
-Portugal;Portuguese
-Qatar;Arabic
-Romania;Romanian
-Russia;Russian
-Rwanda;English
-Rwanda;French
-Rwanda;Kinyarwanda
-Rwanda;Swahili
-Saint Kitts and Nevis;English
-Saint Lucia;English
-Saint Vincent and the Grenadines;English
-Samoa;English
-San Marino;Italian
-Sao Tome and Principe;Portuguese
-Saudi Arabia;Arabic
-Senegal;French
-Serbia;Serbian
-Seychelles;English
-Seychelles;French
-Seychelles;Seychellois Creole
-Sierra Leone;English
-Singapore;English
-Singapore;Malay
-Singapore;Mandarin Chinese
-Singapore;Tamil
-Slovakia;Slovak
-Slovenia;Slovene
-Solomon Islands;English
-Somalia;Arabic
-South Africa;Afrikaans
-South Africa;English
-South Africa;Southern Ndebele
-South Africa;Sotho
-South Africa;Northern Sotho
-South Africa;Swazi
-South Africa;Tsonga
-South Africa;Tswana
-South Africa;Venda
-South Africa;Xhosa
-South Africa;Zulu
-South Sudan;English
-Spain;Spanish
-Sri Lanka;Sinhala
-Sri Lanka;Tamil
-Sudan;Arabic
-Sudan;English
-Suriname;Dutch
-Sweden;Swedish
-Switzerland;French
-Switzerland;German
-Switzerland;Italian
-Switzerland;Romansh
-Syria;Arabic
-Tajikistan;Tajik
-Tanzania;English
-Thailand;Thai
-Togo;French
-Tonga;English
-Tonga;Tongan
-Trinidad and Tobago;English
-Tunisia;Arabic
-Turkey;Turkish
-Turkmenistan;Turkmen
-Tuvalu;Tuvaluan
-Tuvalu;English
-Uganda;English
-Uganda;Swahili
-Ukraine;Ukrainian
-United Arab Emirates;Arabic
-United Kingdom;English
-United States;English
-Uruguay;Spanish
-Uzbekistan;Uzbek
-Vanuatu;English
-Vanuatu;French
-Venezuela;Spanish
-Vietnam;Vietnamese
-Yemen;Arabic
-Zambia;English
-Zimbabwe;Chewa
-Zimbabwe;Chibarwe
-Zimbabwe;English
-Zimbabwe;Kalanga
-Zimbabwe;Khoisan
-Zimbabwe;Nambya
-Zimbabwe;Ndau
-Zimbabwe;Ndebele
-Zimbabwe;Shangani
-Zimbabwe;Shona
-Zimbabwe;Sotho
-Zimbabwe;Tonga
-Zimbabwe;Tswana
-Zimbabwe;Venda
-Zimbabwe;Xhosa
+Country,Official language
+Afghanistan,Pashto
+Afghanistan,Dari
+Albania,Albanian
+Algeria,Arabic
+Algeria,Tamazight
+Andorra,Catalan
+Angola,Portuguese
+Antigua and Barbuda,English
+Argentina,Spanish
+Armenia,Armenian
+Australia,English
+Austria,German
+Azerbaijan,Azerbaijani
+Bahamas,English
+Bahrain,Arabic
+Bangladesh,Bengali
+Barbados,English
+Belarus,Belarusian
+Belarus,Russian
+Belgium,Dutch
+Belgium,French
+Belgium,German
+Belize,English
+Benin,French
+Bhutan,Dzongkha
+Bolivia,Spanish
+Bosnia and Herzegovina,Bosnian
+Bosnia and Herzegovina,Croatian
+Bosnia and Herzegovina,Serbian
+Botswana,English
+Brazil,Portuguese
+Brunei,Malay
+Brunei,English
+Bulgaria,Bulgarian
+Burkina Faso,French
+Burundi,French
+Burundi,Kirundi
+Burundi,English
+Cambodia,Khmer
+Cameroon,English
+Cameroon,French
+Canada,English
+Canada,French
+Cape Verde,Portuguese
+Central African Republic,French
+Chad,Arabic
+Chad,French
+Chile,Spanish
+China,Mandarin Chinese
+Colombia,Spanish
+Comoros,Arabic
+Comoros,Comorian
+Comoros,French
+DR Congo,French
+Congo,French
+Costa Rica,Spanish
+Croatia,Croatian
+Cuba,Spanish
+Cyprus,Greek
+Cyprus,Turkish
+Czech Republic,Czech
+Czech Republic,Slovak
+Denmark,Danish
+Djibouti,Arabic
+Djibouti,French
+Dominica,English
+Dominican Republic,Spanish
+East Timor,Portuguese
+East Timor,Tetum
+Ecuador,Spanish
+Ecuador,Quechua
+Egypt,Arabic
+El Salvador,Spanish
+Equatorial Guinea,French
+Equatorial Guinea,Portuguese
+Equatorial Guinea,Spanish
+Eritrea,Tigrinya
+Estonia,Estonian
+Eswatini,English
+Eswatini,Swazi
+Ethiopia,Afar
+Ethiopia,Amharic
+Ethiopia,Oromo
+Ethiopia,Somali
+Ethiopia,Tigrinya
+Fiji,English
+Fiji,Fijian
+Fiji,Hindi
+Finland,Finnish
+Finland,Swedish
+France,French
+Gabon,French
+Gambia,English
+Georgia,Georgian
+Germany,German
+Ghana,English
+Greece,Greek
+Grenada,English
+Guatemala,Spanish
+Guinea,French
+Guinea-Bissau,Portuguese
+Guyana,English
+Haiti,French
+Haiti,Haitian Creole
+Honduras,Spanish
+Hungary,Hungarian
+Iceland,Icelandic
+India,Hindi
+India,English
+Indonesia,Indonesian
+Iran,Persian
+Iraq,Arabic
+Iraq,Kurdish
+Ireland,Irish
+Ireland,English
+Israel,Hebrew
+Italy,Italian
+Ivory Coast,French
+Jamaica,English
+Japan,Japanese
+Jordan,Arabic
+Kazakhstan,Kazakh
+Kazakhstan,Russian
+Kenya,English
+Kiribati,English
+North Korea,Korean
+South Korea,Korean
+Kuwait,Arabic
+Kyrgyzstan,Kyrgyz
+Kyrgyzstan,Russian
+Laos,Lao
+Latvia,Latvian
+Lebanon,Arabic
+Lesotho,Sotho
+Lesotho,English
+Liberia,English
+Libya,Arabic
+Liechtenstein,German
+Lithuania,Lithuanian
+Luxembourg,French
+Luxembourg,German
+Luxembourg,Luxembourgish
+Madagascar,French
+Madagascar,Malagasy
+Malawi,English
+Malawi,Chewa
+Malaysia,Malay
+Maldives,Dhivehi
+Mali,French
+Malta,Maltese
+Malta,English
+Marshall Islands,English
+Mauritania,Arabic
+Mauritius,English
+Mexico,Spanish
+Micronesia,English
+Moldova,Romanian
+Monaco,French
+Mongolia,Mongolian
+Montenegro,Montenegrin
+Morocco,Arabic
+Morocco,Tamazight
+Mozambique,Portuguese
+Myanmar,Burmese
+Namibia,English
+Nauru,English
+Nauru,Nauruan
+Nepal,Nepali
+Netherlands,Dutch
+Netherlands,Frisian
+New Zealand,English
+New Zealand,Maori
+Nicaragua,Spanish
+Niger,French
+Nigeria,English
+North Macedonia,Macedonian
+North Macedonia,Albanian
+Norway,Norwegian
+Norway,Sami
+Oman,Arabic
+Pakistan,Urdu
+Pakistan,English
+Palau,English
+Palau,Palauan
+Panama,Spanish
+Papua New Guinea,English
+Papua New Guinea,Hiri Motu
+Papua New Guinea,Tok Pisin
+Paraguay,Spanish
+Paraguay,Guarani
+Peru,Spanish
+Peru,Aymara
+Peru,Quechua
+Philippines,Filipino
+Philippines,English
+Poland,Polish
+Portugal,Portuguese
+Qatar,Arabic
+Romania,Romanian
+Russia,Russian
+Rwanda,English
+Rwanda,French
+Rwanda,Kinyarwanda
+Rwanda,Swahili
+Saint Kitts and Nevis,English
+Saint Lucia,English
+Saint Vincent and the Grenadines,English
+Samoa,English
+San Marino,Italian
+Sao Tome and Principe,Portuguese
+Saudi Arabia,Arabic
+Senegal,French
+Serbia,Serbian
+Seychelles,English
+Seychelles,French
+Seychelles,Seychellois Creole
+Sierra Leone,English
+Singapore,English
+Singapore,Malay
+Singapore,Mandarin Chinese
+Singapore,Tamil
+Slovakia,Slovak
+Slovenia,Slovene
+Solomon Islands,English
+Somalia,Arabic
+South Africa,Afrikaans
+South Africa,English
+South Africa,Southern Ndebele
+South Africa,Sotho
+South Africa,Northern Sotho
+South Africa,Swazi
+South Africa,Tsonga
+South Africa,Tswana
+South Africa,Venda
+South Africa,Xhosa
+South Africa,Zulu
+South Sudan,English
+Spain,Spanish
+Sri Lanka,Sinhala
+Sri Lanka,Tamil
+Sudan,Arabic
+Sudan,English
+Suriname,Dutch
+Sweden,Swedish
+Switzerland,French
+Switzerland,German
+Switzerland,Italian
+Switzerland,Romansh
+Syria,Arabic
+Tajikistan,Tajik
+Tanzania,English
+Thailand,Thai
+Togo,French
+Tonga,English
+Tonga,Tongan
+Trinidad and Tobago,English
+Tunisia,Arabic
+Turkey,Turkish
+Turkmenistan,Turkmen
+Tuvalu,Tuvaluan
+Tuvalu,English
+Uganda,English
+Uganda,Swahili
+Ukraine,Ukrainian
+United Arab Emirates,Arabic
+United Kingdom,English
+United States,English
+Uruguay,Spanish
+Uzbekistan,Uzbek
+Vanuatu,English
+Vanuatu,French
+Venezuela,Spanish
+Vietnam,Vietnamese
+Yemen,Arabic
+Zambia,English
+Zimbabwe,Chewa
+Zimbabwe,Chibarwe
+Zimbabwe,English
+Zimbabwe,Kalanga
+Zimbabwe,Khoisan
+Zimbabwe,Nambya
+Zimbabwe,Ndau
+Zimbabwe,Ndebele
+Zimbabwe,Shangani
+Zimbabwe,Shona
+Zimbabwe,Sotho
+Zimbabwe,Tonga
+Zimbabwe,Tswana
+Zimbabwe,Venda
+Zimbabwe,Xhosa

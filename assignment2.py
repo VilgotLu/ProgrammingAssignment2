@@ -34,7 +34,7 @@ def createTable(cursor, createStatement, tableName):
 def parse(filestring):
     tupleList = []
     with open(filestring) as file:
-        csvreader = csv.reader(file, delimiter=';')
+        csvreader = csv.reader(file)
         # Skips the first row because it only contains the column names
         for row in list(csvreader)[1:]:
             for i in range(len(row)):
