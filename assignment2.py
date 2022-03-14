@@ -181,11 +181,12 @@ while choice.lower() != 'q':
         press = input('\nPress enter to return to the main menu: ')
     # Query #3
     elif choice == '3':
-        cursor.execute('''SELECT languages.family AS language_family, AVG(countries.population) AS average_population
+        cursor.execute('''SELECT family AS language_family, AVG(population) AS average_population
+                        FROM (SELECT DISTINCT countries.name, countries.population, languages.family
                         FROM countries JOIN language_countries ON countries.name = language_countries.country
-                        JOIN languages ON language_countries.language = languages.name
-                        GROUP BY languages.family  
-                        ORDER BY average_population DESC''')
+                        JOIN languages ON language_countries.language = languages.name) AS country_family
+                        GROUP BY family  
+                        ORDER BY `average_population`  DESC''')
 
         print('\nlanguage family | average population\n----------------------------------')
         for x in cursor:
