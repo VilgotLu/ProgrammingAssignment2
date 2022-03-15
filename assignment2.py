@@ -217,8 +217,8 @@ while choice.lower() != 'q':
         countryChoice = input('\nChoose a country: ')
         cursor.execute('''SELECT compareCountries.name, ABS(compareCountries.area-chosenCountry.area) AS difference, 
                         ABS(compareCountries.area-chosenCountry.area) / chosenCountry.area * 100 AS percentage 
-                        FROM countries compareCountries, countries chosenCountry 
-                        WHERE chosenCountry.name = \'{}\' AND compareCountries.name != \'{}\'  
+                        FROM countries compareCountries JOIN countries chosenCountry 
+                        ON chosenCountry.name = \'{}\' AND compareCountries.name != \'{}\'  
                         ORDER BY `difference`  ASC
                         LIMIT 5'''.format(countryChoice, countryChoice))
         result = cursor.fetchall()
